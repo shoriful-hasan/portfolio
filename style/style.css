@@ -156,3 +156,21 @@ gap: 40px;
     width: 100%;
 }
 
+
+.card-header_box{
+    width: 200px;
+display: flex;
+flex-direction: column;
+gap: 20px;
+box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+padding: 10px;
+}
+
+.card-header_box img{
+    width: 50px;
+}
+
+.main-card-bound{
+    display: flex;
+    gap: 30px;
+}
