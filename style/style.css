@@ -139,3 +139,20 @@ text-align: center;
 .p_botttom{
     padding-top: 20px;
 }
+
+.card_container{
+    max-width: 1180px;
+    margin: 80px 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+gap: 40px;
+}
+
+.card_container_para{
+    text-align: center;
+    color: #474747;
+    width: 100%;
+}
+
